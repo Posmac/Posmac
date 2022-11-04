@@ -4,7 +4,7 @@ I`m Passionate of Computer graphics and C++ technology
 
 3 years of experience using Unity 3D and C# (20+ hyper and casual games)
 
-Currently writing my own game engine(OpenGL) and experimenting with Vulkan API
+Currently experimenting with Vulkan API and writing my own game engine(OpenGL)
 
 Made Breakout like game, using C++ and OpenGL
 
